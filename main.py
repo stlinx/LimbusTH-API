@@ -9,4 +9,3 @@ def get_version():
         "resource_version": "03072025",
         "version": "0.2.4.2"
     }
-}
