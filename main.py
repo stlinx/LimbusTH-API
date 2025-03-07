@@ -6,6 +6,6 @@ app = FastAPI()
 def get_version():
     return {
         "notice": "อัปเดตแปลไทย",
-        "resource_version": "03072025",
+        "resource_version": "2025080301",
         "version": "0.2.4.2"
     }
